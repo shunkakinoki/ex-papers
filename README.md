@@ -2,7 +2,7 @@
 
 Inspired by [Mr.Upura's Papers Repo](https://github.com/upura/papers)
 
-===
+---
 
 ## [Paper Summaries](https://github.com/shunkakinoki/papers/issues)
 
